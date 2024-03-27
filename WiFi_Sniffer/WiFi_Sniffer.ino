@@ -43,7 +43,7 @@ int nbrDevices = 0;
 int usedChannels[15];
 
 #ifndef CREDENTIALS
-#define mySSID "*****"
+#define mySSID "jaynet"
 #define myPASSWORD "******"
 #endif
 
